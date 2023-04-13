@@ -1,0 +1,63 @@
+counties,total_covid_cases,deaths_by_county_of_residence
+Albany ,"79,726",627
+Allegany ,"10,962",166
+Bronx ,"513,398","8,531"
+Broome ,"59,691",609
+Cattaraugus ,"19,496",252
+Cayuga ,"20,751",185
+Chautauqua ,"29,905",344
+Chemung ,"26,944",265
+Chenango ,"11,983",142
+Clinton ,"23,100",133
+Columbia ,"14,113",177
+Cortland ,"13,644",136
+Delaware ,"10,274",93
+Dutchess ,"85,748",742
+Erie ,"272,642","2,938"
+Essex ,"7,902",86
+Franklin ,"12,359",58
+Fulton ,"16,818",186
+Genesee ,"16,832",208
+Greene ,"11,181",155
+Hamilton ,"1,114",5
+Herkimer ,"17,673",214
+Jefferson ,"27,644",162
+Kings ,"915,179","14,256"
+Lewis ,"7,444",59
+Livingston ,"14,604",142
+Madison ,"17,052",149
+Monroe,"195,037","1,872"
+Montgomery ,"15,225",239
+Nassau ,"552,341","4,352"
+New York ,"589,834","6,185"
+Niagara ,"60,297",642
+Oneida ,"69,886",892
+Onondaga ,"144,453","1,220"
+Ontario ,"26,658",230
+Orange ,"141,100","1,062"
+Orleans ,"10,727",132
+Oswego ,"35,138",240
+Otsego ,"13,466",110
+Putnam ,"31,870",149
+Queens,"867,146","13,441"
+Rensselaer ,"42,307",319
+Richmond ,"211,878","2,738"
+Rockland ,"119,640",980
+Saratoga ,"62,266",419
+Schenectady ,"44,267",382
+Schoharie ,"6,660",45
+Schuyler ,"4,378",32
+Seneca ,"7,836",96
+St. Lawrence ,"26,745",226
+Steuben ,"25,705",281
+Suffolk ,"571,297","4,977"
+Sullivan ,"24,948",154
+Tioga ,"14,270",95
+Tompkins ,"27,024",102
+Ulster ,"43,751",422
+Warren ,"19,168",158
+Washington,"16,097",140
+Wayne ,"22,298",207
+Westchester ,"337,616","3,011"
+Wyoming ,"10,062",97
+Yates ,"4,499",43
